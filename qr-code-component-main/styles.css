@@ -1,0 +1,17 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.area { 
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Outfit';
+    text-align: center; 
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: end; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
