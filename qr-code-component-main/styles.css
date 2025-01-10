@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: hsl(212, 45%, 89%);
 }
@@ -8,10 +12,12 @@ img {
     border-radius: 25px;
 }
 
-.area { 
+.col-2 { 
+    width: auto;
     background-color: hsl(0, 0%, 100%);
     font-family: 'Outfit';
     text-align: center; 
+    
 }
 
 .p1 {
