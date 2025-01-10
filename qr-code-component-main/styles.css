@@ -12,12 +12,20 @@ img {
     border-radius: 25px;
 }
 
+.col-1 {
+    width: 33%;
+}
+
 .col-2 { 
     width: 33%;
     background-color: hsl(0, 0%, 100%);
     font-family: 'Outfit';
     text-align: center; 
     
+}
+
+.col-3 {
+    width: 33%;
 }
 
 .p1 {
